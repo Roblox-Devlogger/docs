@@ -10,6 +10,7 @@ Devlogger is a free to use plugin with no extra purchases used for logging actio
 - When a developer opens or closes a script
 - When an instance or multiples instances are selected
 - When an instance is deleted
+
 You can install it [here]
 
 ----
