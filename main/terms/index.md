@@ -5,5 +5,5 @@ nav_order: 2
 ---
 
 # Terms
-
-to be done
+To be done, come back later.
+{: .fs-6 .fw-300 }
