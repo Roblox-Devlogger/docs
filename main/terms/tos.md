@@ -1,5 +1,6 @@
 ---
 title: Terms of Service
+layout: default
 parent: Terms
 nav_order: 1
 ---
