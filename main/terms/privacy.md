@@ -1,6 +1,7 @@
 ---
-title: Terms
-layout: terms
+title: Terms of Service
+parent: Terms
+nav_order: 1
 ---
 # About
 
