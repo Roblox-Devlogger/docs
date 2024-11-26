@@ -3,7 +3,8 @@ description: Devlogger documentation
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
-logo: "/devlogger2.png"
+logo: "assets/icons/devlogger2.png"
+favicon_ico: "/assets/icons/devlogger.ico"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
