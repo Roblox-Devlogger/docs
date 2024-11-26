@@ -1,6 +1,6 @@
 ---
 title: Terms of Service
-parent: Terms
+parent: terms
 nav_order: 1
 ---
 # About
